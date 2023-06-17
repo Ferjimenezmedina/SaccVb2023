@@ -1,0 +1,5 @@
+Línea 11: la propiedad Icon de frmInventarios tenía una referencia a archivo no válida.
+Línea 131: la propiedad Picture de cmdAnterior tenía una referencia a archivo no válida.
+Línea 140: la propiedad Picture de cmdSiguiente tenía una referencia a archivo no válida.
+Línea 306: la propiedad Picture de cmdSiguienteI tenía una referencia a archivo no válida.
+Línea 315: la propiedad Picture de cmdAnteriorI tenía una referencia a archivo no válida.

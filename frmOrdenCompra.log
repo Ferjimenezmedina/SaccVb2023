@@ -1,0 +1,49 @@
+Línea 18: la clase MSComDlg.CommonDialog del control CD no era una clase de control cargada.
+Línea 90: la clase MSComctlLib.ListView del control lvwOCInternacionales no era una clase de control cargada.
+Línea 134: la clase MSComctlLib.ListView del control lvwOCNacionales no era una clase de control cargada.
+Línea 178: la clase MSComctlLib.ListView del control lvwOCIndirectas no era una clase de control cargada.
+Línea 21: el nombre de la propiedad _ExtentX de CD no es válido.
+Línea 22: el nombre de la propiedad _ExtentY de CD no es válido.
+Línea 23: el nombre de la propiedad _Version de CD no es válido.
+Línea 96: el nombre de la propiedad _ExtentX de lvwOCInternacionales no es válido.
+Línea 97: el nombre de la propiedad _ExtentY de lvwOCInternacionales no es válido.
+Línea 98: el nombre de la propiedad View de lvwOCInternacionales no es válido.
+Línea 99: el nombre de la propiedad LabelWrap de lvwOCInternacionales no es válido.
+Línea 100: el nombre de la propiedad HideSelection de lvwOCInternacionales no es válido.
+Línea 101: el nombre de la propiedad FullRowSelect de lvwOCInternacionales no es válido.
+Línea 102: el nombre de la propiedad GridLines de lvwOCInternacionales no es válido.
+Línea 103: el nombre de la propiedad _Version de lvwOCInternacionales no es válido.
+Línea 108: el nombre de la propiedad NumItems de lvwOCInternacionales no es válido.
+Línea 112: el nombre de la propiedad ColumnHeader(1) de lvwOCInternacionales no es válido.
+Línea 117: el nombre de la propiedad ColumnHeader(2) de lvwOCInternacionales no es válido.
+Línea 122: el nombre de la propiedad ColumnHeader(3) de lvwOCInternacionales no es válido.
+Línea 127: el nombre de la propiedad ColumnHeader(4) de lvwOCInternacionales no es válido.
+Línea 132: el nombre de la propiedad ColumnHeader(5) de lvwOCInternacionales no es válido.
+Línea 140: el nombre de la propiedad _ExtentX de lvwOCNacionales no es válido.
+Línea 141: el nombre de la propiedad _ExtentY de lvwOCNacionales no es válido.
+Línea 142: el nombre de la propiedad View de lvwOCNacionales no es válido.
+Línea 143: el nombre de la propiedad LabelWrap de lvwOCNacionales no es válido.
+Línea 144: el nombre de la propiedad HideSelection de lvwOCNacionales no es válido.
+Línea 145: el nombre de la propiedad FullRowSelect de lvwOCNacionales no es válido.
+Línea 146: el nombre de la propiedad GridLines de lvwOCNacionales no es válido.
+Línea 147: el nombre de la propiedad _Version de lvwOCNacionales no es válido.
+Línea 152: el nombre de la propiedad NumItems de lvwOCNacionales no es válido.
+Línea 156: el nombre de la propiedad ColumnHeader(1) de lvwOCNacionales no es válido.
+Línea 161: el nombre de la propiedad ColumnHeader(2) de lvwOCNacionales no es válido.
+Línea 166: el nombre de la propiedad ColumnHeader(3) de lvwOCNacionales no es válido.
+Línea 171: el nombre de la propiedad ColumnHeader(4) de lvwOCNacionales no es válido.
+Línea 176: el nombre de la propiedad ColumnHeader(5) de lvwOCNacionales no es válido.
+Línea 184: el nombre de la propiedad _ExtentX de lvwOCIndirectas no es válido.
+Línea 185: el nombre de la propiedad _ExtentY de lvwOCIndirectas no es válido.
+Línea 186: el nombre de la propiedad View de lvwOCIndirectas no es válido.
+Línea 187: el nombre de la propiedad LabelWrap de lvwOCIndirectas no es válido.
+Línea 188: el nombre de la propiedad HideSelection de lvwOCIndirectas no es válido.
+Línea 189: el nombre de la propiedad FullRowSelect de lvwOCIndirectas no es válido.
+Línea 190: el nombre de la propiedad GridLines de lvwOCIndirectas no es válido.
+Línea 191: el nombre de la propiedad _Version de lvwOCIndirectas no es válido.
+Línea 196: el nombre de la propiedad NumItems de lvwOCIndirectas no es válido.
+Línea 200: el nombre de la propiedad ColumnHeader(1) de lvwOCIndirectas no es válido.
+Línea 205: el nombre de la propiedad ColumnHeader(2) de lvwOCIndirectas no es válido.
+Línea 210: el nombre de la propiedad ColumnHeader(3) de lvwOCIndirectas no es válido.
+Línea 215: el nombre de la propiedad ColumnHeader(4) de lvwOCIndirectas no es válido.
+Línea 220: el nombre de la propiedad ColumnHeader(5) de lvwOCIndirectas no es válido.

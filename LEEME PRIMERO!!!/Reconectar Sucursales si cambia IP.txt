@@ -1,0 +1,15 @@
+Hola... Buenas tardes
+les pido por favor sigan las siguientes instrucciones para arreglar el sistema...
+1.- Entren en Inicio/Todos los Programas/Microsoft SQL Server/Herraminetas de Red de Cliente
+2.- Cambiense a la pestaña "Alias" 
+3.- Seleccionen LINUX y den click en "Modificar"
+4.- Cambien la IP que dice por esta 189.203.24.200
+5.- Salgan de todas las ventanas dando click en "Aceptar" y vuelvan a abrir el sistema
+
+
+
+
+La IP se obtiene entrando desde matriz a :
+www.wheresmyip.com
+
+Debe ser desde matriz ya que las sucursales deben tener la IP a donde se conectan 

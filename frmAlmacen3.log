@@ -1,0 +1,5 @@
+Línea 9: la propiedad Icon de frmAlmacen3 tenía una referencia a archivo no válida.
+Línea 17: la propiedad Picture de cmdAnterior tenía una referencia a archivo no válida.
+Línea 50: la propiedad ItemData de cboTipo tenía una referencia a archivo no válida.
+Línea 52: la propiedad List de cboTipo tenía una referencia a archivo no válida.
+Línea 60: la propiedad Picture de cmdSiguiente tenía una referencia a archivo no válida.

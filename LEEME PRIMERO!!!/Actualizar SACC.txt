@@ -1,0 +1,7 @@
+Les paso la actualizacion mas reciente del SACC... Por favor hagan lo siguiente:
+- Descarguen el archivo y guardenlo
+- Cierren el SACC
+- Den Ctrl + Alt + Supr y en la pestaña "Aplicaciones" finalizen todas las del SACC
+- Copien el archivo que les envio a la carpeta "C:/Archivos de programa/SACC"
+- Les preguntara si quieren reemplazarlo y den clic en SI
+- La nueva version es la 2.7.149 y esta escrita en la esquina inferior derecha de su menu... si aparece ese numero de version entonces se actualizo correctamente

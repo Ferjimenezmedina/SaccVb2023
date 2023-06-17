@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "SACC", "SACC.exe", "{6FEE76D0-90BF-4FF7-B2FB-B2BE4F307EF1}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = D:\Documents and Settings\Administrador\Escritorio\CODIGO SACC 2019 V3\SACC.exe
+		RemoteMachine = PROGRAMACION
+		StartingDirectory = D:\Documents and Settings\Administrador\Escritorio\CODIGO SACC 2019 V3
+		Environment = Predeterminado
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FEE76D0-90BF-4FF7-B2FB-B2BE4F307EF1}.Debug|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

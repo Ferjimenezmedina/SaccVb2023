@@ -1,0 +1,9 @@
+Línea 160: la clase MSAdodcLib.Adodc del control adcJuegos_Reparacion no era una clase de control cargada.
+Línea 207: la clase MSAdodcLib.Adodc del control adcExistencias no era una clase de control cargada.
+Línea 254: la clase MSAdodcLib.Adodc del control adcComandas_Detalles no era una clase de control cargada.
+Línea 301: la clase MSComctlLib.ListView del control lvwComandas_Detalles no era una clase de control cargada.
+Línea 381: la clase MSComctlLib.ListView del control lvwExistencias no era una clase de control cargada.
+Línea 425: la clase MSComctlLib.ListView del control lvwJuegos_Reparacion no era una clase de control cargada.
+Línea 462: la clase MSComctlLib.ListView del control lvwJR no era una clase de control cargada.
+Línea 499: la clase MSComctlLib.ListView del control lvwE no era una clase de control cargada.
+Línea 541: la clase MSComctlLib.ListView del control lvwNo_Hay no era una clase de control cargada.

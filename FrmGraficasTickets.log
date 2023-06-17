@@ -1,0 +1,8 @@
+Línea 91: la clase Grafico_Circular.ADMPorc del control ADMPorc1 no era una clase de control cargada.
+Línea 97: el nombre de la propiedad _ExtentX de ADMPorc1 no es válido.
+Línea 98: el nombre de la propiedad _ExtentY de ADMPorc1 no es válido.
+Línea 99: el nombre de la propiedad Valor_Total de ADMPorc1 no es válido.
+Línea 100: el nombre de la propiedad Mostrar_Leyenda de ADMPorc1 no es válido.
+Línea 109: el nombre de la propiedad Fuente de ADMPorc1 no es válido.
+Línea 112: el nombre de la propiedad BorderColor de ADMPorc1 no es válido.
+Línea 113: el nombre de la propiedad Separación_Filas de ADMPorc1 no es válido.

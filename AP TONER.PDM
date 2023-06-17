@@ -1,0 +1,2234 @@
+[Root]
+Most Recent Package=Instalación
+
+
+[Package|AP TONER 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Administrador\Mis documentos\Sistema AP Toner3\Paquete
+
+[Package|AP TONER 1|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=Yes
+Exchange=Yes
+Text=Yes
+Jet 2.x=Yes
+Lotus=Yes
+Paradox=Yes
+
+[Package|AP TONER 1|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|AP TONER 1|Files Found]
+
+[Package|AP TONER 1|Files Released]
+
+[Package|AP TONER 1|Missing Dependency Information]
+C:\WINNT\system32\MSEXCH35.DLL=
+C:\Archivos de programa\Microsoft Office\Office10\EXCEL.EXE=
+C:\WINNT\system32\Flash8.ocx=
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=
+
+[Package|AP TONER 1|Out-of-Date Dependency Information]
+C:\WINNT\system32\MSRDO20.DLL=
+C:\WINNT\system32\Mscomctl.ocx=
+C:\WINNT\system32\MSSTDFMT.DLL=
+
+[Package|AP TONER 1|Files Added]
+
+[Package|AP TONER 1|Files Removed]
+c:\winnt\system32\flash8.ocx=
+c:\winnt\system32\expsrv.dll=
+c:\winnt\system32\vbajet32.dll=
+c:\archivos de programa\archivos comunes\system\ado\msado20.tlb=
+
+[Package|AP TONER 1|Files In Project]
+C:\Documents and Settings\Administrador\Mis documentos\Sistema AP Toner3\APTONER.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6ES.DLL=Yes
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=No
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\MSJTER35.DLL=Yes
+C:\WINNT\system32\MSJINT35.DLL=Yes
+C:\WINNT\system32\vbajet32.dll=No
+C:\WINNT\system32\expsrv.dll=No
+C:\WINNT\system32\MSRD2X35.DLL=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\STDFTES.DLL=Yes
+C:\WINNT\system32\Flash8.ocx=No
+C:\WINNT\system32\MSDBRPTR.DLL=Yes
+C:\WINNT\system32\DBRPRES.DLL=Yes
+C:\Archivos de programa\Microsoft Office\Office10\EXCEL.EXE=Yes
+C:\WINNT\system32\MSADODC.OCX=Yes
+C:\WINNT\system32\ADODCES.DLL=Yes
+C:\WINNT\system32\Mscomctl.ocx=Yes
+C:\WINNT\system32\MSCMCES.DLL=Yes
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\WINNT\system32\MSCC2ES.DLL=Yes
+C:\WINNT\system32\MSDATLST.OCX=Yes
+C:\WINNT\system32\DATLSES.DLL=Yes
+C:\WINNT\system32\MSDATGRD.OCX=Yes
+C:\WINNT\system32\DATGDES.DLL=Yes
+C:\Archivos de programa\Archivos comunes\Designer\MSDERUN.DLL=Yes
+C:\WINNT\system32\MSEXCL35.DLL=Yes
+C:\WINNT\system32\MSEXCH35.DLL=Yes
+C:\WINNT\system32\MSLTUS35.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\WINNT\system32\MSRDO20.DLL=Yes
+C:\WINNT\system32\RDOCURS.DLL=Yes
+C:\WINNT\system32\RDO20ES.DLL=Yes
+C:\WINNT\system32\MSPDOX35.DLL=Yes
+C:\WINNT\system32\MSTEXT35.DLL=Yes
+C:\WINNT\system32\MSXBSE35.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|AP TONER 1|Configure Registry Files]
+Applicable=No
+
+[Package|AP TONER 1|Configure Remote Servers]
+Applicable=No
+
+[Package|AP TONER 1|Install Locations]
+C:\Documents and Settings\Administrador\Mis documentos\Sistema AP Toner3\APTONER.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6ES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\STDFTES.DLL=$(WinSysPath)
+C:\WINNT\system32\Flash8.ocx=$(WinSysPath)
+C:\WINNT\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINNT\system32\DBRPRES.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Office\Office10\EXCEL.EXE=$(AppPath)
+C:\WINNT\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINNT\system32\ADODCES.DLL=$(WinSysPath)
+C:\WINNT\system32\Mscomctl.ocx=$(WinSysPath)
+C:\WINNT\system32\MSCMCES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCC2ES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINNT\system32\DATLSES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINNT\system32\DATGDES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINNT\system32\MSEXCL35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSEXCH35.DLL=$(WinSysPath)
+C:\WINNT\system32\MSLTUS35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\WINNT\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINNT\system32\RDOCURS.DLL=$(WinSysPath)
+C:\WINNT\system32\RDO20ES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSPDOX35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSTEXT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|AP TONER 1|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Administrador\Mis documentos\Sistema AP Toner3\APTONER.exe=Yes
+C:\Archivos de programa\Microsoft Office\Office10\EXCEL.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|AP TONER 1|Distribution]
+Type=single
+Size=
+Title=AP TONER
+
+[Package|AP TONER 1|Package]
+PackageFolder=C:\Documents and Settings\Administrador\Mis documentos\Sistema AP Toner3\Paquete
+ProjectFolder=C:\Documents and Settings\Administrador\Mis documentos\Sistema AP Toner3
+ServerSideCab=
+File1=C:\Documents and Settings\Administrador\Mis documentos\Sistema AP Toner3\Paquete\setup.exe
+File2=C:\Documents and Settings\Administrador\Mis documentos\Sistema AP Toner3\Paquete\Setup.Lst
+File3=C:\Documents and Settings\Administrador\Mis documentos\Sistema AP Toner3\Paquete\APTONER.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|AP TONER 1|IconGroups]
+Group0=AP TONER
+PrivateGroup0=Falso
+Parent0=$(Programs)
+
+[Package|AP TONER 1|AP TONER]
+Icon1=APTONER.exe
+Title1=AP TONER
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|AP TONER|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Administrador\Mis documentos\Sistema AP Toner3\Paquete
+
+[Package|AP TONER|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=Yes
+Exchange=Yes
+Text=Yes
+Jet 2.x=Yes
+Lotus=Yes
+Paradox=Yes
+
+[Package|AP TONER|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|AP TONER|Files Found]
+
+[Package|AP TONER|Files Released]
+
+[Package|AP TONER|Missing Dependency Information]
+C:\WINNT\system32\MSEXCH35.DLL=
+C:\Archivos de programa\Microsoft Office\Office10\EXCEL.EXE=
+C:\WINNT\system32\Flash8.ocx=
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=
+
+[Package|AP TONER|Out-of-Date Dependency Information]
+C:\WINNT\system32\MSRDO20.DLL=
+C:\WINNT\system32\Mscomctl.ocx=
+C:\WINNT\system32\MSSTDFMT.DLL=
+C:\WINNT\system32\msdatgrd.ocx=
+C:\WINNT\system32\mscomct2.ocx=
+C:\WINNT\system32\msadodc.ocx=
+
+[Package|AP TONER|Files Added]
+
+[Package|AP TONER|Files Removed]
+c:\winnt\system32\expsrv.dll=
+c:\winnt\system32\vbajet32.dll=
+c:\archivos de programa\archivos comunes\system\ado\msado20.tlb=
+
+[Package|AP TONER|Files In Project]
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6ES.DLL=Yes
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=No
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\MSJTER35.DLL=Yes
+C:\WINNT\system32\MSJINT35.DLL=Yes
+C:\WINNT\system32\vbajet32.dll=No
+C:\WINNT\system32\expsrv.dll=No
+C:\WINNT\system32\MSRD2X35.DLL=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\STDFTES.DLL=Yes
+C:\WINNT\system32\Flash8.ocx=Yes
+C:\WINNT\system32\MSDBRPTR.DLL=Yes
+C:\WINNT\system32\DBRPRES.DLL=Yes
+C:\Archivos de programa\Microsoft Office\Office10\EXCEL.EXE=Yes
+C:\WINNT\system32\MSADODC.OCX=Yes
+C:\WINNT\system32\ADODCES.DLL=Yes
+C:\WINNT\system32\Mscomctl.ocx=Yes
+C:\WINNT\system32\MSCMCES.DLL=Yes
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\WINNT\system32\MSCC2ES.DLL=Yes
+C:\WINNT\system32\MSDATLST.OCX=Yes
+C:\WINNT\system32\DATLSES.DLL=Yes
+C:\WINNT\system32\MSDATGRD.OCX=Yes
+C:\WINNT\system32\DATGDES.DLL=Yes
+C:\Archivos de programa\Archivos comunes\Designer\MSDERUN.DLL=Yes
+C:\WINNT\system32\MSEXCL35.DLL=Yes
+C:\WINNT\system32\MSEXCH35.DLL=Yes
+C:\WINNT\system32\MSLTUS35.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\WINNT\system32\MSRDO20.DLL=Yes
+C:\WINNT\system32\RDOCURS.DLL=Yes
+C:\WINNT\system32\RDO20ES.DLL=Yes
+C:\WINNT\system32\MSPDOX35.DLL=Yes
+C:\WINNT\system32\MSTEXT35.DLL=Yes
+C:\WINNT\system32\MSXBSE35.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\Administrador\Mis documentos\Compartido Isaac\Sistema AP Toner4\APTONER.exe=Yes
+
+[Package|AP TONER|Configure Registry Files]
+Applicable=No
+
+[Package|AP TONER|Configure Remote Servers]
+Applicable=No
+
+[Package|AP TONER|Install Locations]
+C:\Documents and Settings\Administrador\Mis documentos\Sistema AP Toner3\APTONER.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6ES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\STDFTES.DLL=$(WinSysPath)
+C:\WINNT\system32\Flash8.ocx=$(WinSysPath)
+C:\WINNT\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINNT\system32\DBRPRES.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Office\Office10\EXCEL.EXE=$(AppPath)
+C:\WINNT\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINNT\system32\ADODCES.DLL=$(WinSysPath)
+C:\WINNT\system32\Mscomctl.ocx=$(WinSysPath)
+C:\WINNT\system32\MSCMCES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCC2ES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINNT\system32\DATLSES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINNT\system32\DATGDES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINNT\system32\MSEXCL35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSEXCH35.DLL=$(WinSysPath)
+C:\WINNT\system32\MSLTUS35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\WINNT\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINNT\system32\RDOCURS.DLL=$(WinSysPath)
+C:\WINNT\system32\RDO20ES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSPDOX35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSTEXT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\Administrador\Mis documentos\Compartido Isaac\Sistema AP Toner4\APTONER.exe=$(AppPath)
+
+[Package|AP TONER|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Administrador\Mis documentos\Sistema AP Toner3\APTONER.exe=Yes
+C:\Archivos de programa\Microsoft Office\Office10\EXCEL.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Documents and Settings\Administrador\Mis documentos\Compartido Isaac\Sistema AP Toner4\APTONER.exe=Yes
+
+[Package|AP TONER|Distribution]
+Type=single
+Size=
+Title=AP TONER
+
+[Package|AP TONER|Package]
+PackageFolder=C:\Documents and Settings\Administrador\Mis documentos\Sistema AP Toner3\Paquete
+ProjectFolder=C:\Documents and Settings\Administrador\Mis documentos\Compartido Isaac\Sistema AP Toner4
+ServerSideCab=
+File1=C:\Documents and Settings\Administrador\Mis documentos\Sistema AP Toner3\Paquete\setup.exe
+File2=C:\Documents and Settings\Administrador\Mis documentos\Sistema AP Toner3\Paquete\Setup.Lst
+File3=C:\Documents and Settings\Administrador\Mis documentos\Sistema AP Toner3\Paquete\APTONER.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|AP TONER|IconGroups]
+Group0=AP TONER
+PrivateGroup0=Falso
+Parent0=$(Programs)
+
+[Package|AP TONER|AP TONER]
+Icon1=APTONER.exe
+Title1=AP TONER
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|SAPT ADMINISTRADOR|SAPT]
+Icon1=APTONER.exe
+Title1=SAPT ADMINISTRADOR
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Paquete de instalación estándar 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Administrador\Mis documentos\Sistema\SISTEMA 03-08-2006\Paquete
+
+[Package|Paquete de instalación estándar 1|Configure DAO ISAMs]
+Applicable=Yes
+Jet 2.x=Yes
+
+[Package|Paquete de instalación estándar 1|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|Paquete de instalación estándar 1|Files Found]
+sscsdk80.dll=C:\Archivos de programa\Archivos comunes\Crystal Decisions\1.0\Bin\sscsdk80.dll
+
+[Package|Paquete de instalación estándar 1|Files Released]
+
+[Package|Paquete de instalación estándar 1|Missing Dependency Information]
+C:\WINNT\system32\cryptext.dll=
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\sviewhlp.dll=
+C:\Archivos de programa\Seagate Software\Report Designer Component\crystalwizard.dll=
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\xqviewer.dll=
+C:\WINNT\system32\p3smnes.dll=
+C:\Archivos de programa\Microsoft Office\OFFICE11\EXCEL.EXE=
+C:\WINNT\system32\Macromed\Flash\Flash9.ocx=
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=
+
+[Package|Paquete de instalación estándar 1|Out-of-Date Dependency Information]
+C:\WINNT\system32\MSRDO20.DLL=
+C:\WINNT\system32\Comdlg32.ocx=
+C:\WINNT\system32\MSCOMCT2.OCX=
+C:\WINNT\system32\MSCOMCTL.OCX=
+C:\WINNT\system32\msstdfmt.dll=
+
+[Package|Paquete de instalación estándar 1|Files Added]
+
+[Package|Paquete de instalación estándar 1|Files Removed]
+c:\winnt\system32\expsrv.dll=
+c:\winnt\system32\macromed\flash\flash9.ocx=
+c:\winnt\system32\vbajet32.dll=
+c:\archivos de programa\archivos comunes\system\ado\msado20.tlb=
+
+[Package|Paquete de instalación estándar 1|Files In Project]
+C:\Documents and Settings\Administrador\Mis documentos\Sistema\SISTEMA 03-08-2006\APTONER.exe=Yes
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\WINNT\system32\oleaut32.dll=Yes
+C:\WINNT\system32\olepro32.dll=Yes
+C:\WINNT\system32\asycfilt.dll=Yes
+C:\WINNT\system32\stdole2.tlb=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6ES.DLL=Yes
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=No
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\MSJTER35.DLL=Yes
+C:\WINNT\system32\MSJINT35.DLL=Yes
+C:\WINNT\system32\vbajet32.dll=No
+C:\WINNT\system32\expsrv.dll=No
+C:\WINNT\system32\MSRD2X35.DLL=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\msstdfmt.dll=Yes
+C:\WINNT\system32\STDFTES.DLL=Yes
+C:\WINNT\system32\Macromed\Flash\Flash9.ocx=No
+C:\WINNT\system32\MSDBRPTR.DLL=Yes
+C:\WINNT\system32\DBRPRES.DLL=Yes
+C:\Archivos de programa\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\Archivos de programa\Archivos comunes\designer\MSDERUN.DLL=Yes
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt.dll=Yes
+C:\WINNT\system32\Implode.dll=Yes
+C:\WINNT\system32\Crpaig80.dll=Yes
+C:\Archivos de programa\Archivos comunes\Crystal Decisions\1.0\Bin\sscsdk80.dll=Yes
+C:\WINNT\system32\P2smon.dll=Yes
+C:\WINNT\system32\p3smnes.dll=Yes
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\xqviewer.dll=Yes
+C:\Archivos de programa\Seagate Software\Report Designer Component\crystalwizard.dll=Yes
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\sviewhlp.dll=Yes
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=Yes
+C:\WINNT\system32\cryptext.dll=Yes
+C:\WINNT\system32\MSADODC.OCX=Yes
+C:\WINNT\system32\ADODCES.DLL=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\WINNT\system32\MSCMCES.DLL=Yes
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\WINNT\system32\MSCC2ES.DLL=Yes
+C:\WINNT\system32\MSDATLST.OCX=Yes
+C:\WINNT\system32\DATLSES.DLL=Yes
+C:\WINNT\system32\MSDATGRD.OCX=Yes
+C:\WINNT\system32\DATGDES.DLL=Yes
+C:\WINNT\system32\Comdlg32.ocx=Yes
+C:\WINNT\system32\CMDLGES.DLL=Yes
+C:\WINNT\system32\TABCTL32.OCX=Yes
+C:\WINNT\system32\TABCTES.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\WINNT\system32\MSRDO20.DLL=Yes
+C:\WINNT\system32\RDOCURS.DLL=Yes
+C:\WINNT\system32\RDO20ES.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Paquete de instalación estándar 1|Configure Registry Files]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Install Locations]
+C:\Documents and Settings\Administrador\Mis documentos\Sistema\SISTEMA 03-08-2006\APTONER.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6ES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\msstdfmt.dll=$(WinSysPath)
+C:\WINNT\system32\STDFTES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINNT\system32\DBRPRES.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\Archivos de programa\Archivos comunes\designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt.dll=$(WinSysPath)
+C:\WINNT\system32\Implode.dll=$(AppPath)
+C:\WINNT\system32\Crpaig80.dll=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Crystal Decisions\1.0\Bin\sscsdk80.dll=$(WinSysPath)
+C:\WINNT\system32\P2smon.dll=$(WinSysPath)
+C:\WINNT\system32\p3smnes.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\xqviewer.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Report Designer Component\crystalwizard.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\sviewhlp.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=$(WinSysPath)
+C:\WINNT\system32\cryptext.dll=$(AppPath)
+C:\WINNT\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINNT\system32\ADODCES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCMCES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCC2ES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINNT\system32\DATLSES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINNT\system32\DATGDES.DLL=$(WinSysPath)
+C:\WINNT\system32\Comdlg32.ocx=$(WinSysPath)
+C:\WINNT\system32\CMDLGES.DLL=$(WinSysPath)
+C:\WINNT\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINNT\system32\TABCTES.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\WINNT\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINNT\system32\RDOCURS.DLL=$(WinSysPath)
+C:\WINNT\system32\RDO20ES.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Paquete de instalación estándar 1|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Administrador\Mis documentos\Sistema\SISTEMA 03-08-2006\APTONER.exe=Yes
+C:\Archivos de programa\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\WINNT\system32\Implode.dll=Yes
+C:\WINNT\system32\cryptext.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|Paquete de instalación estándar 1|Distribution]
+Type=single
+Size=
+Title=APT 06
+
+[Package|Paquete de instalación estándar 1|IconGroups]
+Group0=APTONER
+PrivateGroup0=Verdadero
+Parent0=$(Programs)
+
+[Package|Paquete de instalación estándar 1|APTONER]
+Icon1=APTONER.exe
+Title1=SISTEMA 2006
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Paquete de instalación estándar 1|Package]
+PackageFolder=C:\Documents and Settings\Administrador\Mis documentos\Sistema\SISTEMA 03-08-2006\Paquete
+ProjectFolder=C:\Documents and Settings\Administrador\Mis documentos\Sistema\SISTEMA 03-08-2006
+ServerSideCab=
+File1=C:\Documents and Settings\Administrador\Mis documentos\Sistema\SISTEMA 03-08-2006\Paquete\setup.exe
+File2=C:\Documents and Settings\Administrador\Mis documentos\Sistema\SISTEMA 03-08-2006\Paquete\Setup.Lst
+File3=C:\Documents and Settings\Administrador\Mis documentos\Sistema\SISTEMA 03-08-2006\Paquete\APTONER.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|SAPT ADMINISTRADOR|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Sistemas\Escritorio\Install SAPT1
+
+[Package|SAPT ADMINISTRADOR|Configure DAO ISAMs]
+Applicable=Yes
+Jet 2.x=Yes
+
+[Package|SAPT ADMINISTRADOR|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|SAPT ADMINISTRADOR|Files Found]
+
+[Package|SAPT ADMINISTRADOR|Files Released]
+EXCEL.EXE=
+SSCSDK80.DLL=
+
+[Package|SAPT ADMINISTRADOR|Missing Dependency Information]
+C:\WINNT\system32\MSEXCH35.DLL=
+C:\Archivos de programa\Microsoft Office\Office10\EXCEL.EXE=
+C:\WINNT\system32\Flash8.ocx=
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=
+C:\WINDOWS\system32\Macromed\Flash\swflash.ocx=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\WINNT\system32\Macromed\Flash\Flash8.ocx=
+C:\WINDOWS\system32\p3smnes.dll=
+C:\WINDOWS\system32\Macromed\Flash\Flash8b.ocx=
+C:\Archivos de programa\Microsoft Office\Office\EXCEL9.OLB=
+C:\WINDOWS\system32\cryptext.dll=
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\sviewhlp.dll=
+C:\Archivos de programa\Seagate Software\Report Designer Component\crystalwizard.dll=
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\xqviewer.dll=
+
+[Package|SAPT ADMINISTRADOR|Out-of-Date Dependency Information]
+C:\WINNT\system32\MSRDO20.DLL=
+C:\WINNT\system32\msdatgrd.ocx=
+C:\WINNT\system32\mscomct2.ocx=
+C:\WINNT\system32\Mscomctl.ocx=
+C:\WINNT\system32\msadodc.ocx=
+C:\WINNT\system32\msstdfmt.dll=
+C:\WINDOWS\system32\MSRDO20.DLL=
+C:\WINDOWS\system32\Comdlg32.ocx=
+C:\WINDOWS\system32\Mscomctl.ocx=
+C:\WINNT\system32\Comdlg32.ocx=
+C:\WINDOWS\system32\mscomct2.ocx=
+
+[Package|SAPT ADMINISTRADOR|Files Added]
+
+[Package|SAPT ADMINISTRADOR|Files Removed]
+c:\winnt\system32\expsrv.dll=
+c:\winnt\system32\flash8.ocx=
+c:\winnt\system32\vbajet32.dll=
+c:\archivos de programa\archivos comunes\system\ado\msado20.tlb=
+c:\windows\system32\macromed\flash\flash8b.ocx=
+
+[Package|SAPT ADMINISTRADOR|Files In Project]
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=No
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\Archivos de programa\Archivos comunes\Designer\MSDERUN.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\WINDOWS\system32\VB6ES.DLL=Yes
+C:\WINDOWS\system32\MSJET35.DLL=Yes
+C:\WINDOWS\system32\MSJTER35.DLL=Yes
+C:\WINDOWS\system32\MSJINT35.DLL=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\MSRD2X35.DLL=Yes
+C:\WINDOWS\system32\MSREPL35.DLL=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\DBRPRES.DLL=Yes
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt.dll=Yes
+C:\WINDOWS\system32\Implode.dll=Yes
+C:\WINDOWS\system32\Crpaig80.dll=Yes
+C:\WINDOWS\system32\P2smon.dll=Yes
+C:\WINDOWS\system32\p3smnes.dll=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\ADODCES.DLL=Yes
+C:\WINDOWS\system32\Mscomctl.ocx=Yes
+C:\WINDOWS\system32\MSCMCES.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2ES.DLL=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\WINDOWS\system32\DATLSES.DLL=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\DATGDES.DLL=Yes
+C:\WINDOWS\system32\Comdlg32.ocx=Yes
+C:\WINDOWS\system32\CMDLGES.DLL=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+C:\WINDOWS\system32\RDO20ES.DLL=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Documents and Settings\Sistemas\Escritorio\SAPT1 25-08-2006\APTONER.exe=Yes
+C:\WINDOWS\system32\STDFTES.DLL=Yes
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\xqviewer.dll=Yes
+C:\Archivos de programa\Seagate Software\Report Designer Component\crystalwizard.dll=Yes
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\sviewhlp.dll=Yes
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=Yes
+C:\WINDOWS\system32\cryptext.dll=Yes
+C:\Archivos de programa\Microsoft Office\Office\EXCEL9.OLB=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\TABCTES.DLL=Yes
+
+[Package|SAPT ADMINISTRADOR|Configure Registry Files]
+Applicable=No
+
+[Package|SAPT ADMINISTRADOR|Configure Remote Servers]
+Applicable=No
+
+[Package|SAPT ADMINISTRADOR|Install Locations]
+C:\Documents and Settings\Administrador\Mis documentos\Compartido Isaac\Sistema AP Toner4\APTONER.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6ES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\msstdfmt.dll=$(WinSysPath)
+C:\WINNT\system32\STDFTES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINNT\system32\DBRPRES.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Office\Office10\EXCEL.EXE=$(AppPath)
+C:\WINNT\system32\msadodc.ocx=$(WinSysPath)
+C:\WINNT\system32\ADODCES.DLL=$(WinSysPath)
+C:\WINNT\system32\Mscomctl.ocx=$(WinSysPath)
+C:\WINNT\system32\MSCMCES.DLL=$(WinSysPath)
+C:\WINNT\system32\mscomct2.ocx=$(WinSysPath)
+C:\WINNT\system32\MSCC2ES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINNT\system32\DATLSES.DLL=$(WinSysPath)
+C:\WINNT\system32\msdatgrd.ocx=$(WinSysPath)
+C:\WINNT\system32\DATGDES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINNT\system32\MSEXCL35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSEXCH35.DLL=$(WinSysPath)
+C:\WINNT\system32\MSLTUS35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\WINNT\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINNT\system32\RDOCURS.DLL=$(WinSysPath)
+C:\WINNT\system32\RDO20ES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSPDOX35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSTEXT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\Sistemas\Escritorio\Sistema AP Toner TU TAUSEN SITX  DOS PUNTO CERO\APTONER.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\Macromed\Flash\swflash.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DBRPRES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\ADODCES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATLSES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATGDES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\Comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDO20ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Documents and Settings\Sistemas\Escritorio\Sistema AP Toner15-03-2005\APTONER.exe=$(AppPath)
+C:\Documents and Settings\Sistemas\Escritorio\Sistema AP Toner17-03-2005\APTONER.exe=$(AppPath)
+C:\Documents and Settings\Sistemas\Escritorio\Sistema AP Toner 20-03-2005\APTONER.exe=$(AppPath)
+C:\Documents and Settings\Sistemas\Escritorio\Sistema AP Toner 23-03-2005\APTONER.exe=$(AppPath)
+C:\Documents and Settings\Sistemas\Escritorio\Sistema AP Toner 27-03-2005\APTONER.exe=$(AppPath)
+C:\Documents and Settings\Sistemas\Escritorio\Sistema AP Toner 29-03-2005\APTONER.exe=$(AppPath)
+C:\Documents and Settings\Sistemas\Escritorio\Sistema AP Toner 07-04-2005\APTONER.exe=$(AppPath)
+C:\Documents and Settings\Sistemas\Escritorio\Sistema AP Toner 12-04-2005\APTONER.exe=$(AppPath)
+C:\Documents and Settings\Sistemas\Escritorio\Sistema AP Toner 17-04-2005\APTONER.exe=$(AppPath)
+C:\Documents and Settings\Sistemas\Escritorio\Sistema AP Toner 18-04-2005\APTONER.exe=$(AppPath)
+C:\Documents and Settings\Sistemas\Escritorio\Sistema AP Toner 20-04-2005\APTONER.exe=$(AppPath)
+C:\Documents and Settings\Administrador\Escritorio\Compartido en NEWSERVER\Sistema AP Toner 21-04-2005\APTONER.exe=$(AppPath)
+C:\WINNT\system32\Macromed\Flash\Flash8.ocx=$(WinSysPath)
+C:\WINNT\system32\Comdlg32.ocx=$(WinSysPath)
+C:\WINNT\system32\CMDLGES.DLL=$(WinSysPath)
+C:\Documents and Settings\Sistemas\Escritorio\SISTEMA 30-06-2006\APTONER.exe=$(AppPath)
+C:\WINDOWS\system32\Macromed\Flash\Flash8b.ocx=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt.dll=$(WinSysPath)
+C:\WINDOWS\system32\Implode.dll=$(AppPath)
+C:\WINDOWS\system32\Crpaig80.dll=$(WinSysPath)
+C:\WINDOWS\system32\P2smon.dll=$(WinSysPath)
+C:\WINDOWS\system32\p3smnes.dll=$(WinSysPath)
+C:\Documents and Settings\Sistemas\Escritorio\SISTEMA 13-07-2006\APTONER.exe=$(AppPath)
+C:\Documents and Settings\Sistemas\Escritorio\SISTEMA 01-08-2006\APTONER.exe=$(AppPath)
+C:\Documents and Settings\Sistemas\Escritorio\SAPT1 25-08-2006\APTONER.exe=$(AppPath)
+C:\WINDOWS\system32\STDFTES.DLL=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\xqviewer.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Report Designer Component\crystalwizard.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\sviewhlp.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=$(WinSysPath)
+C:\WINDOWS\system32\cryptext.dll=$(AppPath)
+C:\Archivos de programa\Microsoft Office\Office\EXCEL9.OLB=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTES.DLL=$(WinSysPath)
+
+[Package|SAPT ADMINISTRADOR|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Administrador\Mis documentos\Compartido Isaac\Sistema AP Toner4\APTONER.exe=Yes
+C:\Archivos de programa\Microsoft Office\Office10\EXCEL.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Documents and Settings\Sistemas\Escritorio\Sistema AP Toner TU TAUSEN SITX  DOS PUNTO CERO\APTONER.exe=Yes
+C:\Documents and Settings\Sistemas\Escritorio\Sistema AP Toner15-03-2005\APTONER.exe=No
+C:\Documents and Settings\Sistemas\Escritorio\Sistema AP Toner17-03-2005\APTONER.exe=Yes
+C:\Documents and Settings\Sistemas\Escritorio\Sistema AP Toner 20-03-2005\APTONER.exe=Yes
+C:\Documents and Settings\Sistemas\Escritorio\Sistema AP Toner 23-03-2005\APTONER.exe=Yes
+C:\Documents and Settings\Sistemas\Escritorio\Sistema AP Toner 27-03-2005\APTONER.exe=Yes
+C:\Documents and Settings\Sistemas\Escritorio\Sistema AP Toner 29-03-2005\APTONER.exe=Yes
+C:\Documents and Settings\Sistemas\Escritorio\Sistema AP Toner 07-04-2005\APTONER.exe=Yes
+C:\Documents and Settings\Sistemas\Escritorio\Sistema AP Toner 12-04-2005\APTONER.exe=Yes
+C:\Documents and Settings\Sistemas\Escritorio\Sistema AP Toner 17-04-2005\APTONER.exe=Yes
+C:\Documents and Settings\Sistemas\Escritorio\Sistema AP Toner 18-04-2005\APTONER.exe=Yes
+C:\Documents and Settings\Sistemas\Escritorio\Sistema AP Toner 20-04-2005\APTONER.exe=Yes
+C:\Documents and Settings\Administrador\Escritorio\Compartido en NEWSERVER\Sistema AP Toner 21-04-2005\APTONER.exe=Yes
+C:\Documents and Settings\Sistemas\Escritorio\SISTEMA 30-06-2006\APTONER.exe=Yes
+C:\WINDOWS\system32\Implode.dll=Yes
+C:\Documents and Settings\Sistemas\Escritorio\SISTEMA 13-07-2006\APTONER.exe=Yes
+C:\Documents and Settings\Sistemas\Escritorio\SISTEMA 01-08-2006\APTONER.exe=Yes
+C:\Documents and Settings\Sistemas\Escritorio\SAPT1 25-08-2006\APTONER.exe=Yes
+C:\WINDOWS\system32\cryptext.dll=Yes
+
+[Package|SAPT ADMINISTRADOR|Distribution]
+Type=single
+Size=
+Title=SAPT1
+
+[Package|SAPT ADMINISTRADOR|IconGroups]
+Group0=JLB Systems
+PrivateGroup0=Falso
+Parent0=$(Programs)
+
+[Package|SAPT ADMINISTRADOR|JLB Systems]
+Icon1=APTONER.exe
+Title1=JLB SAPT1
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|SAPT ADMINISTRADOR|Package]
+PackageFolder=C:\Documents and Settings\Sistemas\Escritorio\Install SAPT1
+ProjectFolder=C:\Documents and Settings\Sistemas\Escritorio\SAPT1 25-08-2006
+ServerSideCab=
+File1=C:\Documents and Settings\Sistemas\Escritorio\Install SAPT1\setup.exe
+File2=C:\Documents and Settings\Sistemas\Escritorio\Install SAPT1\Setup.Lst
+File3=C:\Documents and Settings\Sistemas\Escritorio\Install SAPT1\APTONER.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|SACC .dep|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Documents and Settings\Lokisan\Escritorio\SACC 25-08-2007\Instalador V3
+
+[Package|SACC .dep|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=Yes
+Exchange=Yes
+Text=Yes
+Jet 2.x=Yes
+Lotus=Yes
+Paradox=Yes
+
+[Package|SACC .dep|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|SACC .dep|Files Found]
+
+[Package|SACC .dep|Files Released]
+SSCSDK80.DLL=
+
+[Package|SACC .dep|Missing Dependency Information]
+C:\WINDOWS\system32\MSEXCH35.DLL=
+C:\Documents and Settings\Lokisan\Escritorio\ocx-menu-xp\ocx-menu-xp\HookMenu.ocx=
+C:\Archivos de programa\Microsoft Office\OFFICE11\EXCEL.EXE=
+C:\WINDOWS\system32\cryptext.dll=
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\sviewhlp.dll=
+C:\Archivos de programa\Seagate Software\Report Designer Component\crystalwizard.dll=
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\xqviewer.dll=
+C:\WINDOWS\system32\p3smnes.dll=
+C:\WINDOWS\system32\msstdfmt.dll=
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=
+
+[Package|SACC .dep|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSRDO20.DLL=
+C:\WINDOWS\system32\TABCTL32.OCX=
+C:\WINDOWS\system32\Comdlg32.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|SACC .dep|Files Added]
+
+[Package|SACC .dep|Files Removed]
+
+[Package|SACC .dep|Files In Project]
+C:\Documents and Settings\Lokisan\Escritorio\SACC 25-08-2007\SACC.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6ES.DLL=Yes
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=Yes
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINDOWS\system32\MSJET35.DLL=Yes
+C:\WINDOWS\system32\MSJTER35.DLL=Yes
+C:\WINDOWS\system32\MSJINT35.DLL=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\MSRD2X35.DLL=Yes
+C:\WINDOWS\system32\MSREPL35.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\msstdfmt.dll=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\DBRPRES.DLL=Yes
+C:\Archivos de programa\Archivos comunes\DESIGNER\MSDERUN.DLL=Yes
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt.dll=Yes
+C:\WINDOWS\system32\Implode.dll=Yes
+C:\WINDOWS\system32\Crpaig80.dll=Yes
+C:\WINDOWS\system32\P2smon.dll=Yes
+C:\WINDOWS\system32\p3smnes.dll=Yes
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\xqviewer.dll=Yes
+C:\Archivos de programa\Seagate Software\Report Designer Component\crystalwizard.dll=Yes
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\sviewhlp.dll=Yes
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=Yes
+C:\WINDOWS\system32\cryptext.dll=Yes
+C:\Archivos de programa\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCES.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2ES.DLL=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\WINDOWS\system32\DATLSES.DLL=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\DATGDES.DLL=Yes
+C:\WINDOWS\system32\Comdlg32.ocx=Yes
+C:\WINDOWS\system32\CMDLGES.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\TABCTES.DLL=Yes
+C:\Documents and Settings\Lokisan\Escritorio\ocx-menu-xp\ocx-menu-xp\HookMenu.ocx=Yes
+C:\WINDOWS\system32\MSEXCL35.DLL=Yes
+C:\WINDOWS\system32\MSEXCH35.DLL=Yes
+C:\WINDOWS\system32\MSLTUS35.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+C:\WINDOWS\system32\RDO20ES.DLL=Yes
+C:\WINDOWS\system32\MSPDOX35.DLL=Yes
+C:\WINDOWS\system32\MSTEXT35.DLL=Yes
+C:\WINDOWS\system32\MSXBSE35.DLL=Yes
+C:\Archivos de programa\Archivos comunes\System\ado\msado15.dll=Yes
+C:\WINDOWS\system32\odbc32.dll=Yes
+
+[Package|SACC .dep|Configure Registry Files]
+Applicable=No
+
+[Package|SACC .dep|Configure Remote Servers]
+Applicable=No
+
+[Package|SACC .dep|Install Locations]
+C:\Documents and Settings\Lokisan\Escritorio\SACC 25-08-2007\SACC.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6ES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DBRPRES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\DESIGNER\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt.dll=$(WinSysPath)
+C:\WINDOWS\system32\Implode.dll=$(AppPath)
+C:\WINDOWS\system32\Crpaig80.dll=$(WinSysPath)
+C:\WINDOWS\system32\P2smon.dll=$(WinSysPath)
+C:\WINDOWS\system32\p3smnes.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\xqviewer.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Report Designer Component\crystalwizard.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\sviewhlp.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=$(WinSysPath)
+C:\WINDOWS\system32\cryptext.dll=$(AppPath)
+C:\Archivos de programa\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATLSES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATGDES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\Comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTES.DLL=$(WinSysPath)
+C:\Documents and Settings\Lokisan\Escritorio\ocx-menu-xp\ocx-menu-xp\HookMenu.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSEXCL35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSEXCH35.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSLTUS35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDO20ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSPDOX35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSTEXT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Archivos de programa\Archivos comunes\System\ado\msado15.dll=$(CommonFilesSys)\ADO
+C:\WINDOWS\system32\odbc32.dll=$(WinSysPathSysFile)
+
+[Package|SACC .dep|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 25-08-2007\SACC.exe=Yes
+C:\WINDOWS\system32\Implode.dll=Yes
+C:\WINDOWS\system32\cryptext.dll=Yes
+C:\Archivos de programa\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|SACC .dep|Distribution]
+Type=single
+Size=
+Title=SACC
+
+[Package|SACC .dep|IconGroups]
+Group0=SACC
+PrivateGroup0=Verdadero
+Parent0=$(Programs)
+
+[Package|SACC .dep|SACC]
+Icon1=SACC.exe
+Title1=SACC
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|SACC .dep|DepFile]
+DepCabFile=SACC.CAB
+DepCabRun=SACC.INF
+
+[Package|SACC .dep|Package]
+PackageFolder=C:\Documents and Settings\Lokisan\Escritorio\SACC 25-08-2007\Instalador V3
+ProjectFolder=C:\Documents and Settings\Lokisan\Escritorio\SACC 25-08-2007
+ServerSideCab=
+File1=C:\Documents and Settings\Lokisan\Escritorio\SACC 25-08-2007\Instalador V3\SACC.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|SACC.dep|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\Instalador de Prueba
+
+[Package|SACC.dep|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=Yes
+Exchange=Yes
+Text=Yes
+Jet 2.x=Yes
+Lotus=Yes
+Paradox=Yes
+
+[Package|SACC.dep|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|SACC.dep|Files Found]
+
+[Package|SACC.dep|Files Released]
+SSCSDK80.DLL=
+
+[Package|SACC.dep|Missing Dependency Information]
+C:\WINDOWS\system32\MSEXCH35.DLL=
+C:\Documents and Settings\Lokisan\Escritorio\ocx-menu-xp\ocx-menu-xp\HookMenu.ocx=
+C:\Archivos de programa\Microsoft Office\OFFICE11\EXCEL.EXE=
+C:\WINDOWS\system32\cryptext.dll=
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\sviewhlp.dll=
+C:\Archivos de programa\Seagate Software\Report Designer Component\crystalwizard.dll=
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\xqviewer.dll=
+C:\WINDOWS\system32\p3smnes.dll=
+C:\WINDOWS\system32\msstdfmt.dll=
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=
+C:\Archivos de programa\Seagate Software\Shared\Cdo32.dll=
+
+[Package|SACC.dep|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSRDO20.DLL=
+C:\WINDOWS\system32\TABCTL32.OCX=
+C:\WINDOWS\system32\Comdlg32.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|SACC.dep|Files Added]
+
+[Package|SACC.dep|Files Removed]
+
+[Package|SACC.dep|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6ES.DLL=Yes
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=Yes
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINDOWS\system32\MSJET35.DLL=Yes
+C:\WINDOWS\system32\MSJTER35.DLL=Yes
+C:\WINDOWS\system32\MSJINT35.DLL=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\MSRD2X35.DLL=Yes
+C:\WINDOWS\system32\MSREPL35.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\msstdfmt.dll=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\DBRPRES.DLL=Yes
+C:\Archivos de programa\Archivos comunes\DESIGNER\MSDERUN.DLL=Yes
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt.dll=Yes
+C:\WINDOWS\system32\Implode.dll=Yes
+C:\WINDOWS\system32\Crpaig80.dll=Yes
+C:\WINDOWS\system32\P2smon.dll=Yes
+C:\WINDOWS\system32\p3smnes.dll=Yes
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\xqviewer.dll=Yes
+C:\Archivos de programa\Seagate Software\Report Designer Component\crystalwizard.dll=Yes
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\sviewhlp.dll=Yes
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=Yes
+C:\WINDOWS\system32\cryptext.dll=Yes
+C:\Archivos de programa\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCES.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2ES.DLL=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\WINDOWS\system32\DATLSES.DLL=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\DATGDES.DLL=Yes
+C:\WINDOWS\system32\Comdlg32.ocx=Yes
+C:\WINDOWS\system32\CMDLGES.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\TABCTES.DLL=Yes
+C:\Documents and Settings\Lokisan\Escritorio\ocx-menu-xp\ocx-menu-xp\HookMenu.ocx=Yes
+C:\WINDOWS\system32\MSEXCL35.DLL=Yes
+C:\WINDOWS\system32\MSEXCH35.DLL=Yes
+C:\WINDOWS\system32\MSLTUS35.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+C:\WINDOWS\system32\RDO20ES.DLL=Yes
+C:\WINDOWS\system32\MSPDOX35.DLL=Yes
+C:\WINDOWS\system32\MSTEXT35.DLL=Yes
+C:\WINDOWS\system32\MSXBSE35.DLL=Yes
+C:\Archivos de programa\Archivos comunes\System\ado\msado15.dll=Yes
+C:\WINDOWS\system32\odbc32.dll=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\SACC.exe=Yes
+C:\Archivos de programa\Seagate Software\Shared\Cdo32.dll=Yes
+
+[Package|SACC.dep|Configure Registry Files]
+Applicable=No
+
+[Package|SACC.dep|Configure Remote Servers]
+Applicable=No
+
+[Package|SACC.dep|Install Locations]
+C:\Documents and Settings\Lokisan\Escritorio\SACC 25-08-2007\SACC.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6ES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DBRPRES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\DESIGNER\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt.dll=$(WinSysPath)
+C:\WINDOWS\system32\Implode.dll=$(AppPath)
+C:\WINDOWS\system32\Crpaig80.dll=$(WinSysPath)
+C:\WINDOWS\system32\P2smon.dll=$(WinSysPath)
+C:\WINDOWS\system32\p3smnes.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\xqviewer.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Report Designer Component\crystalwizard.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\sviewhlp.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=$(WinSysPath)
+C:\WINDOWS\system32\cryptext.dll=$(AppPath)
+C:\Archivos de programa\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATLSES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATGDES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\Comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTES.DLL=$(WinSysPath)
+C:\Documents and Settings\Lokisan\Escritorio\ocx-menu-xp\ocx-menu-xp\HookMenu.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSEXCL35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSEXCH35.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSLTUS35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDO20ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSPDOX35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSTEXT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Archivos de programa\Archivos comunes\System\ado\msado15.dll=$(CommonFilesSys)\ADO
+C:\WINDOWS\system32\odbc32.dll=$(WinSysPathSysFile)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\SACC.exe=$(AppPath)
+C:\Archivos de programa\Seagate Software\Shared\Cdo32.dll=$(WinSysPath)
+
+[Package|SACC.dep|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 25-08-2007\SACC.exe=Yes
+C:\WINDOWS\system32\Implode.dll=Yes
+C:\WINDOWS\system32\cryptext.dll=Yes
+C:\Archivos de programa\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|SACC.dep|Distribution]
+Type=single
+Size=
+Title=SACC
+
+[Package|SACC.dep|IconGroups]
+Group0=SACC
+PrivateGroup0=Verdadero
+Parent0=$(Programs)
+
+[Package|SACC.dep|SACC]
+Icon1=SACC.exe
+Title1=SACC
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|SACC.dep|DepFile]
+DepCabFile=SACC.CAB
+DepCabRun=SACC.INF
+
+[Package|SACC.dep|Package]
+PackageFolder=C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\Instalador de Prueba
+ProjectFolder=C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007
+ServerSideCab=
+File1=C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\Instalador de Prueba\SACC.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Archivo.dep|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Documents and Settings\Administrador\Mis documentos\Sistema\SISTEMA 03-08-2006\Paquete
+
+[Package|Archivo.dep|Configure DAO ISAMs]
+Applicable=Yes
+Jet 2.x=Yes
+Xbase=Yes
+Excel=Yes
+Exchange=Yes
+Text=Yes
+Lotus=Yes
+Paradox=Yes
+
+[Package|Archivo.dep|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|Archivo.dep|Files Found]
+sscsdk80.dll=C:\Documents and Settings\Lokisan\Escritorio\Respaldos\SAPT1 27-09-2006\Paquete\Support\sscsdk80.dll
+
+[Package|Archivo.dep|Files Released]
+
+[Package|Archivo.dep|Missing Dependency Information]
+C:\WINNT\system32\cryptext.dll=
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\sviewhlp.dll=
+C:\Archivos de programa\Seagate Software\Report Designer Component\crystalwizard.dll=
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\xqviewer.dll=
+C:\WINNT\system32\p3smnes.dll=
+C:\Archivos de programa\Microsoft Office\OFFICE11\EXCEL.EXE=
+C:\WINNT\system32\Macromed\Flash\Flash9.ocx=
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=
+C:\WINDOWS\system32\MSEXCH35.DLL=
+C:\Documents and Settings\Lokisan\Escritorio\ocx-menu-xp\ocx-menu-xp\HookMenu.ocx=
+C:\Archivos de programa\Seagate Software\Shared\Cdo32.dll=
+C:\WINDOWS\system32\cryptext.dll=
+C:\WINDOWS\system32\p3smnes.dll=
+C:\WINDOWS\system32\msstdfmt.dll=
+
+[Package|Archivo.dep|Out-of-Date Dependency Information]
+C:\WINNT\system32\MSRDO20.DLL=
+C:\WINNT\system32\Comdlg32.ocx=
+C:\WINNT\system32\MSCOMCT2.OCX=
+C:\WINNT\system32\MSCOMCTL.OCX=
+C:\WINNT\system32\msstdfmt.dll=
+C:\WINDOWS\system32\MSRDO20.DLL=
+C:\WINDOWS\system32\TABCTL32.OCX=
+C:\WINDOWS\system32\Comdlg32.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Archivo.dep|Files Added]
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\CARTVACCOMPRA.rpt=
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\CARTVACVENTA.rpt=
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\COBRO_MCIA.rpt=
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\COMPRAS_ALMACEN_1.rpt=
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\COMPRAS_FECHA.rpt=
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\expeCV.rpt=
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\FACTURA2.rpt=
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\FACTURA3.rpt=
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\FACTURA4.rpt=
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\JuegosDeReparacion.rpt=
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\NOTA_CREDITO.rpt=
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\OCR.rpt=
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\ORDEN_COMPRA.rpt=
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\ORDEN_COMPRA_NACIONAL-1.rpt=
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\ORDEN_COMPRA_NACIONAL.rpt=
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\PAGOCV.rpt=
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\PRE-ORDEN_COMPRA.rpt=
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\PRE-ORDEN_COMPRA_NACIONAL.rpt=
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RCF2.rpt=
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RCF.rpt=
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RECEPCIONCV-1.rpt=
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RECEPCIONCV-2..rpt=
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RECEPCIONCV-3.rpt=
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RECEPCIONCV.rpt=
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RepCompLic.rpt=
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RepCompLicTabla.rpt=
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RepRevComAlm1.rpt=
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RepVentas1.rpt=
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RepVentas2.rpt=
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RepVentas3.rpt=
+
+[Package|Archivo.dep|Files Removed]
+c:\winnt\system32\expsrv.dll=
+c:\winnt\system32\macromed\flash\flash9.ocx=
+c:\winnt\system32\vbajet32.dll=
+c:\archivos de programa\archivos comunes\system\ado\msado20.tlb=
+
+[Package|Archivo.dep|Files In Project]
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=No
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\Archivos de programa\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\Archivos de programa\Archivos comunes\designer\MSDERUN.DLL=Yes
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt.dll=Yes
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\xqviewer.dll=Yes
+C:\Archivos de programa\Seagate Software\Report Designer Component\crystalwizard.dll=Yes
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\sviewhlp.dll=Yes
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\SACC.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\WINDOWS\system32\VB6ES.DLL=Yes
+C:\WINDOWS\system32\MSJET35.DLL=Yes
+C:\WINDOWS\system32\MSJTER35.DLL=Yes
+C:\WINDOWS\system32\MSJINT35.DLL=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\MSRD2X35.DLL=Yes
+C:\WINDOWS\system32\MSREPL35.DLL=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\msstdfmt.dll=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\DBRPRES.DLL=Yes
+C:\Archivos de programa\Archivos comunes\System\ado\msado15.dll=Yes
+C:\WINDOWS\system32\Implode.dll=Yes
+C:\WINDOWS\system32\Crpaig80.dll=Yes
+C:\Documents and Settings\Lokisan\Escritorio\Respaldos\SAPT1 27-09-2006\Paquete\Support\sscsdk80.dll=Yes
+C:\WINDOWS\system32\P2smon.dll=Yes
+C:\WINDOWS\system32\p3smnes.dll=Yes
+C:\WINDOWS\system32\cryptext.dll=Yes
+C:\Archivos de programa\Seagate Software\Shared\Cdo32.dll=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCES.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2ES.DLL=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\WINDOWS\system32\DATLSES.DLL=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\DATGDES.DLL=Yes
+C:\WINDOWS\system32\Comdlg32.ocx=Yes
+C:\WINDOWS\system32\CMDLGES.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\TABCTES.DLL=Yes
+C:\Documents and Settings\Lokisan\Escritorio\ocx-menu-xp\ocx-menu-xp\HookMenu.ocx=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+C:\WINDOWS\system32\odbc32.dll=Yes
+C:\WINDOWS\system32\RDO20ES.DLL=Yes
+C:\WINDOWS\system32\MSEXCL35.DLL=Yes
+C:\WINDOWS\system32\MSEXCH35.DLL=Yes
+C:\WINDOWS\system32\MSLTUS35.DLL=Yes
+C:\WINDOWS\system32\MSPDOX35.DLL=Yes
+C:\WINDOWS\system32\MSTEXT35.DLL=Yes
+C:\WINDOWS\system32\MSXBSE35.DLL=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\CARTVACCOMPRA.rpt=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\CARTVACVENTA.rpt=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\COBRO_MCIA.rpt=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\COMPRAS_ALMACEN_1.rpt=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\COMPRAS_FECHA.rpt=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\expeCV.rpt=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\FACTURA2.rpt=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\FACTURA3.rpt=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\FACTURA4.rpt=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\JuegosDeReparacion.rpt=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\NOTA_CREDITO.rpt=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\OCR.rpt=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\ORDEN_COMPRA.rpt=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\ORDEN_COMPRA_NACIONAL-1.rpt=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\ORDEN_COMPRA_NACIONAL.rpt=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\PAGOCV.rpt=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\PRE-ORDEN_COMPRA.rpt=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\PRE-ORDEN_COMPRA_NACIONAL.rpt=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RCF2.rpt=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RCF.rpt=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RECEPCIONCV-1.rpt=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RECEPCIONCV-2..rpt=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RECEPCIONCV-3.rpt=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RECEPCIONCV.rpt=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RepCompLic.rpt=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RepCompLicTabla.rpt=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RepRevComAlm1.rpt=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RepVentas1.rpt=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RepVentas2.rpt=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RepVentas3.rpt=Yes
+
+[Package|Archivo.dep|Configure Registry Files]
+Applicable=No
+
+[Package|Archivo.dep|Configure Remote Servers]
+Applicable=No
+
+[Package|Archivo.dep|Install Locations]
+C:\Documents and Settings\Administrador\Mis documentos\Sistema\SISTEMA 03-08-2006\APTONER.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6ES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\msstdfmt.dll=$(WinSysPath)
+C:\WINNT\system32\STDFTES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINNT\system32\DBRPRES.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\Archivos de programa\Archivos comunes\designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt.dll=$(WinSysPath)
+C:\WINNT\system32\Implode.dll=$(AppPath)
+C:\WINNT\system32\Crpaig80.dll=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Crystal Decisions\1.0\Bin\sscsdk80.dll=$(WinSysPath)
+C:\WINNT\system32\P2smon.dll=$(WinSysPath)
+C:\WINNT\system32\p3smnes.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\xqviewer.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Report Designer Component\crystalwizard.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\sviewhlp.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=$(WinSysPath)
+C:\WINNT\system32\cryptext.dll=$(AppPath)
+C:\WINNT\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINNT\system32\ADODCES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCMCES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCC2ES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINNT\system32\DATLSES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINNT\system32\DATGDES.DLL=$(WinSysPath)
+C:\WINNT\system32\Comdlg32.ocx=$(WinSysPath)
+C:\WINNT\system32\CMDLGES.DLL=$(WinSysPath)
+C:\WINNT\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINNT\system32\TABCTES.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\WINNT\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINNT\system32\RDOCURS.DLL=$(WinSysPath)
+C:\WINNT\system32\RDO20ES.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\SACC.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DBRPRES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\System\ado\msado15.dll=$(CommonFilesSys)\ADO
+C:\WINDOWS\system32\Implode.dll=$(AppPath)
+C:\WINDOWS\system32\Crpaig80.dll=$(WinSysPath)
+C:\Documents and Settings\Lokisan\Escritorio\Respaldos\SAPT1 27-09-2006\Paquete\Support\sscsdk80.dll=$(WinSysPath)
+C:\WINDOWS\system32\P2smon.dll=$(WinSysPath)
+C:\WINDOWS\system32\p3smnes.dll=$(WinSysPath)
+C:\WINDOWS\system32\cryptext.dll=$(AppPath)
+C:\Archivos de programa\Seagate Software\Shared\Cdo32.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATLSES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATGDES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\Comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTES.DLL=$(WinSysPath)
+C:\Documents and Settings\Lokisan\Escritorio\ocx-menu-xp\ocx-menu-xp\HookMenu.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\odbc32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\RDO20ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSEXCL35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSEXCH35.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSLTUS35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSPDOX35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSTEXT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\CARTVACCOMPRA.rpt=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\CARTVACVENTA.rpt=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\COBRO_MCIA.rpt=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\COMPRAS_ALMACEN_1.rpt=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\COMPRAS_FECHA.rpt=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\expeCV.rpt=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\FACTURA2.rpt=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\FACTURA3.rpt=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\FACTURA4.rpt=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\JuegosDeReparacion.rpt=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\NOTA_CREDITO.rpt=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\OCR.rpt=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\ORDEN_COMPRA.rpt=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\ORDEN_COMPRA_NACIONAL-1.rpt=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\ORDEN_COMPRA_NACIONAL.rpt=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\PAGOCV.rpt=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\PRE-ORDEN_COMPRA.rpt=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\PRE-ORDEN_COMPRA_NACIONAL.rpt=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RCF2.rpt=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RCF.rpt=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RECEPCIONCV-1.rpt=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RECEPCIONCV-2..rpt=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RECEPCIONCV-3.rpt=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RECEPCIONCV.rpt=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RepCompLic.rpt=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RepCompLicTabla.rpt=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RepRevComAlm1.rpt=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RepVentas1.rpt=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RepVentas2.rpt=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\REPORTES\RepVentas3.rpt=$(AppPath)
+
+[Package|Archivo.dep|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Administrador\Mis documentos\Sistema\SISTEMA 03-08-2006\APTONER.exe=Yes
+C:\Archivos de programa\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\WINNT\system32\Implode.dll=Yes
+C:\WINNT\system32\cryptext.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|Archivo.dep|Distribution]
+Type=single
+Size=
+Title=APT 06
+
+[Package|Archivo.dep|IconGroups]
+Group0=APTONER
+PrivateGroup0=Verdadero
+Parent0=$(Programs)
+
+[Package|Archivo.dep|APTONER]
+Icon1=APTONER.exe
+Title1=SISTEMA 2006
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Archivo.dep|DepFile]
+DepCabFile=SACC.CAB
+DepCabRun=SACC.INF
+
+[Package|Archivo.dep|Package]
+PackageFolder=C:\Documents and Settings\Administrador\Mis documentos\Sistema\SISTEMA 03-08-2006\Paquete
+ProjectFolder=C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007
+ServerSideCab=
+File1=C:\Documents and Settings\Administrador\Mis documentos\Sistema\SISTEMA 03-08-2006\Paquete\SACC.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Instalación de SACC|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Lokisan\Escritorio\INSTALADOR DE PRUEBA
+
+[Package|Instalación de SACC|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=Yes
+Exchange=Yes
+Text=Yes
+Jet 2.x=Yes
+Lotus=Yes
+Paradox=Yes
+
+[Package|Instalación de SACC|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|Instalación de SACC|Files Found]
+
+[Package|Instalación de SACC|Files Released]
+SSCSDK80.DLL=
+
+[Package|Instalación de SACC|Missing Dependency Information]
+C:\WINDOWS\system32\MSEXCH35.DLL=
+C:\Documents and Settings\Lokisan\Escritorio\ocx-menu-xp\ocx-menu-xp\HookMenu.ocx=
+C:\Archivos de programa\Microsoft Office\OFFICE11\EXCEL.EXE=
+C:\WINDOWS\system32\cryptext.dll=
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\sviewhlp.dll=
+C:\Archivos de programa\Seagate Software\Report Designer Component\crystalwizard.dll=
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\xqviewer.dll=
+C:\WINDOWS\system32\p3smnes.dll=
+C:\WINDOWS\system32\msstdfmt.dll=
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=
+C:\Archivos de programa\Seagate Software\Shared\Cdo32.dll=
+C:\Archivos de programa\Seagate Software\Crystal Reports\Patches\Crystal Reports 8.5 Service Pack 3\CR85SP3\Files\Crpe32.Dll=
+C:\Archivos de programa\Seagate Software\Crystal Reports\Patches\Crystal Reports 8.5 Service Pack 3\CR85SP3\Files\P2bbde.Dll=
+C:\Archivos de programa\Seagate Software\Crystal Reports\Patches\Crystal Reports 8.5 Service Pack 3\CR85SP3\Files\Sscsdk80.Dll=
+C:\WINDOWS\system32\P2bbnd.dll=
+C:\WINDOWS\Crystal\p2ssql.dll=
+
+[Package|Instalación de SACC|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSRDO20.DLL=
+C:\WINDOWS\system32\TABCTL32.OCX=
+C:\WINDOWS\system32\Comdlg32.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Instalación de SACC|Files Added]
+c:\archivos de programa\seagate software\crystal reports\patches\crystal reports 8.5 service pack 3\cr85sp3\files\crpe32.dll=
+c:\archivos de programa\seagate software\crystal reports\patches\crystal reports 8.5 service pack 3\cr85sp3\files\p2bbde.dll=
+c:\archivos de programa\seagate software\crystal reports\patches\crystal reports 8.5 service pack 3\cr85sp3\files\sscsdk80.dll=
+c:\windows\system32\p2bbnd.dll=
+c:\windows\crystal\p2ssql.dll=
+
+[Package|Instalación de SACC|Files Removed]
+c:\archivos de programa\archivos comunes\system\ado\msado20.tlb=
+c:\archivos de programa\archivos comunes\microsoft shared\dao\dao350.dll=
+c:\windows\system32\vb6es.dll=
+c:\archivos de programa\microsoft office\office11\excel.exe=
+
+[Package|Instalación de SACC|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6ES.DLL=No
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=No
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=No
+C:\WINDOWS\system32\MSJET35.DLL=Yes
+C:\WINDOWS\system32\MSJTER35.DLL=Yes
+C:\WINDOWS\system32\MSJINT35.DLL=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\MSRD2X35.DLL=Yes
+C:\WINDOWS\system32\MSREPL35.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\msstdfmt.dll=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\DBRPRES.DLL=Yes
+C:\Archivos de programa\Archivos comunes\DESIGNER\MSDERUN.DLL=Yes
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt.dll=Yes
+C:\WINDOWS\system32\Implode.dll=Yes
+C:\WINDOWS\system32\Crpaig80.dll=Yes
+C:\WINDOWS\system32\P2smon.dll=Yes
+C:\WINDOWS\system32\p3smnes.dll=Yes
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\xqviewer.dll=Yes
+C:\Archivos de programa\Seagate Software\Report Designer Component\crystalwizard.dll=Yes
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\sviewhlp.dll=Yes
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=Yes
+C:\WINDOWS\system32\cryptext.dll=Yes
+C:\Archivos de programa\Microsoft Office\OFFICE11\EXCEL.EXE=No
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCES.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2ES.DLL=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\WINDOWS\system32\DATLSES.DLL=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\DATGDES.DLL=Yes
+C:\WINDOWS\system32\Comdlg32.ocx=Yes
+C:\WINDOWS\system32\CMDLGES.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\TABCTES.DLL=Yes
+C:\Documents and Settings\Lokisan\Escritorio\ocx-menu-xp\ocx-menu-xp\HookMenu.ocx=Yes
+C:\WINDOWS\system32\MSEXCL35.DLL=Yes
+C:\WINDOWS\system32\MSEXCH35.DLL=Yes
+C:\WINDOWS\system32\MSLTUS35.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+C:\WINDOWS\system32\RDO20ES.DLL=Yes
+C:\WINDOWS\system32\MSPDOX35.DLL=Yes
+C:\WINDOWS\system32\MSTEXT35.DLL=Yes
+C:\WINDOWS\system32\MSXBSE35.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Archivos de programa\Seagate Software\Shared\Cdo32.dll=Yes
+C:\Archivos de programa\Seagate Software\Crystal Reports\Patches\Crystal Reports 8.5 Service Pack 3\CR85SP3\Files\Crpe32.Dll=Yes
+C:\Archivos de programa\Seagate Software\Crystal Reports\Patches\Crystal Reports 8.5 Service Pack 3\CR85SP3\Files\P2bbde.Dll=Yes
+C:\Archivos de programa\Seagate Software\Crystal Reports\Patches\Crystal Reports 8.5 Service Pack 3\CR85SP3\Files\Sscsdk80.Dll=Yes
+C:\WINDOWS\system32\P2bbnd.dll=Yes
+C:\WINDOWS\Crystal\p2ssql.dll=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 12-02-2008\SACC.exe=Yes
+
+[Package|Instalación de SACC|Configure Registry Files]
+Applicable=No
+
+[Package|Instalación de SACC|Configure Remote Servers]
+Applicable=No
+
+[Package|Instalación de SACC|Install Locations]
+C:\Documents and Settings\Lokisan\Escritorio\SACC 25-08-2007\SACC.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6ES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DBRPRES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\DESIGNER\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt.dll=$(WinSysPath)
+C:\WINDOWS\system32\Implode.dll=$(AppPath)
+C:\WINDOWS\system32\Crpaig80.dll=$(WinSysPath)
+C:\WINDOWS\system32\P2smon.dll=$(WinSysPath)
+C:\WINDOWS\system32\p3smnes.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\xqviewer.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Report Designer Component\crystalwizard.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\sviewhlp.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=$(WinSysPath)
+C:\WINDOWS\system32\cryptext.dll=$(AppPath)
+C:\Archivos de programa\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATLSES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATGDES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\Comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTES.DLL=$(WinSysPath)
+C:\Documents and Settings\Lokisan\Escritorio\ocx-menu-xp\ocx-menu-xp\HookMenu.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSEXCL35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSEXCH35.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSLTUS35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDO20ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSPDOX35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSTEXT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\APTONER.exe=$(AppPath)
+C:\Archivos de programa\Seagate Software\Shared\Cdo32.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Crystal Reports\Patches\Crystal Reports 8.5 Service Pack 3\CR85SP3\Files\Crpe32.Dll=$(AppPath)
+C:\Archivos de programa\Seagate Software\Crystal Reports\Patches\Crystal Reports 8.5 Service Pack 3\CR85SP3\Files\P2bbde.Dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Crystal Reports\Patches\Crystal Reports 8.5 Service Pack 3\CR85SP3\Files\Sscsdk80.Dll=$(WinSysPath)
+C:\WINDOWS\system32\P2bbnd.dll=$(WinSysPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\SACC.exe=$(AppPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 27-09-2007\SACC.exe=$(AppPath)
+C:\WINDOWS\Crystal\p2ssql.dll=$(WinSysPath)
+C:\Documents and Settings\Lokisan\Escritorio\SACC 12-02-2008\SACC.exe=$(AppPath)
+
+[Package|Instalación de SACC|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 25-08-2007\SACC.exe=Yes
+C:\WINDOWS\system32\Implode.dll=Yes
+C:\WINDOWS\system32\cryptext.dll=Yes
+C:\Archivos de programa\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\APTONER.exe=Yes
+C:\Archivos de programa\Seagate Software\Crystal Reports\Patches\Crystal Reports 8.5 Service Pack 3\CR85SP3\Files\Crpe32.Dll=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 03-09-2007\SACC.exe=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 27-09-2007\SACC.exe=Yes
+C:\Documents and Settings\Lokisan\Escritorio\SACC 12-02-2008\SACC.exe=Yes
+
+[Package|Instalación de SACC|Distribution]
+Type=single
+Size=
+Title=SACC
+
+[Package|Instalación de SACC|IconGroups]
+Group0=SACC
+PrivateGroup0=Falso
+Parent0=$(Programs)
+
+[Package|Instalación de SACC|SACC]
+Icon1=SACC.exe
+Title1=SACC
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Instalación de SACC|Package]
+PackageFolder=C:\Documents and Settings\Lokisan\Escritorio\INSTALADOR DE PRUEBA
+ProjectFolder=C:\Documents and Settings\Lokisan\Escritorio\SACC 12-02-2008
+ServerSideCab=
+File1=C:\Documents and Settings\Lokisan\Escritorio\INSTALADOR DE PRUEBA\setup.exe
+File2=C:\Documents and Settings\Lokisan\Escritorio\INSTALADOR DE PRUEBA\Setup.Lst
+File3=C:\Documents and Settings\Lokisan\Escritorio\INSTALADOR DE PRUEBA\SACC.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Instalación|APTONER]
+Icon1=APTONER.exe
+Title1=SISTEMA 2006
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Instalación|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Administrador\Escritorio\CODIGO SACC 2021 V3\Instalador 2016
+
+[Package|Instalación|Configure DAO ISAMs]
+Applicable=Yes
+Jet 2.x=Yes
+
+[Package|Instalación|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|Instalación|Files Found]
+sscsdk80.dll=C:\Archivos de programa\Archivos comunes\Crystal Decisions\1.0\Bin\sscsdk80.dll
+
+[Package|Instalación|Files Released]
+
+[Package|Instalación|Missing Dependency Information]
+C:\WINNT\system32\cryptext.dll=
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\sviewhlp.dll=
+C:\Archivos de programa\Seagate Software\Report Designer Component\crystalwizard.dll=
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\xqviewer.dll=
+C:\WINNT\system32\p3smnes.dll=
+C:\Archivos de programa\Microsoft Office\OFFICE11\EXCEL.EXE=
+C:\WINNT\system32\Macromed\Flash\Flash9.ocx=
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=
+D:\Archivos de programa\SACC\HookMenu.ocx=
+C:\WINDOWS\system32\Comdlg32.ocx=
+D:\Archivos de programa\Archivos comunes\System\ado\msado26.tlb=
+C:\WINDOWS\system32\oPDF.dll=
+D:\Archivos de programa\Microsoft Office\Office12\EXCEL.EXE=
+D:\WINDOWS\system32\msderun.dll=
+C:\WINDOWS\system32\MSDBRPTR.DLL=
+D:\Documents and Settings\Administrador\Escritorio\CODIGO SACC 2021 V3\OCX Y DLL'S\Graficas\ADM_GRAFICOS\ADMGráficos.ocx=
+D:\WINDOWS\system32\cdosys.dll=
+C:\WINDOWS\system32\ADMGráficos.ocx=
+C:\Archivos de programa\SACC\HookMenu.ocx=
+C:\WINDOWS\system32\cdosys.dll=
+C:\Archivos de programa\Archivos comunes\System\ado\msado26.tlb=
+C:\WINDOWS\system32\msderun.dll=
+
+[Package|Instalación|Out-of-Date Dependency Information]
+C:\WINNT\system32\MSRDO20.DLL=
+C:\WINNT\system32\Comdlg32.ocx=
+C:\WINNT\system32\MSCOMCT2.OCX=
+C:\WINNT\system32\MSCOMCTL.OCX=
+C:\WINNT\system32\msstdfmt.dll=
+D:\WINDOWS\system32\tabctl32.ocx=
+D:\WINDOWS\system32\mscomct2.ocx=
+D:\WINDOWS\system32\MSCOMCTL.OCX=
+D:\WINDOWS\system32\msstdfmt.dll=
+D:\WINDOWS\system32\msbind.dll=
+C:\WINDOWS\system32\tabctl32.ocx=
+C:\WINDOWS\system32\Comdlg32.ocx=
+C:\WINDOWS\system32\mscomct2.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\msdbrptr.dll=
+C:\WINDOWS\system32\msstdfmt.dll=
+C:\WINDOWS\system32\msbind.dll=
+
+[Package|Instalación|Files Added]
+
+[Package|Instalación|Files Removed]
+c:\winnt\system32\expsrv.dll=
+c:\winnt\system32\macromed\flash\flash9.ocx=
+c:\winnt\system32\vbajet32.dll=
+c:\archivos de programa\archivos comunes\system\ado\msado20.tlb=
+
+[Package|Instalación|Files In Project]
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\oPDF.dll=Yes
+C:\WINDOWS\system32\Comdlg32.ocx=Yes
+C:\Documents and Settings\Administrador\Escritorio\CODIGO SACC 2021 V3\SACC.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6ES.DLL=Yes
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINDOWS\system32\MSJET35.DLL=Yes
+C:\WINDOWS\system32\MSJTER35.DLL=Yes
+C:\WINDOWS\system32\MSJINT35.DLL=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\MSRD2X35.DLL=Yes
+C:\WINDOWS\system32\MSREPL35.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\WINDOWS\system32\msbind.dll=Yes
+C:\WINDOWS\system32\msstdfmt.dll=Yes
+C:\WINDOWS\system32\STDFTES.DLL=Yes
+C:\WINDOWS\system32\DBRPRES.DLL=Yes
+C:\WINDOWS\system32\msderun.dll=Yes
+C:\Archivos de programa\Archivos comunes\System\ado\msado26.tlb=Yes
+C:\WINDOWS\system32\cdosys.dll=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCES.DLL=Yes
+C:\WINDOWS\system32\mscomct2.ocx=Yes
+C:\WINDOWS\system32\MSCC2ES.DLL=Yes
+C:\WINDOWS\system32\CMDLGES.DLL=Yes
+C:\WINDOWS\system32\tabctl32.ocx=Yes
+C:\WINDOWS\system32\TABCTES.DLL=Yes
+C:\Archivos de programa\SACC\HookMenu.ocx=Yes
+C:\WINDOWS\system32\ADMGráficos.ocx=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+C:\WINDOWS\system32\RDO20ES.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Instalación|Configure Registry Files]
+Applicable=No
+
+[Package|Instalación|Configure Remote Servers]
+Applicable=No
+
+[Package|Instalación|Install Locations]
+C:\Documents and Settings\Administrador\Mis documentos\Sistema\SISTEMA 03-08-2006\APTONER.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6ES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\msstdfmt.dll=$(WinSysPath)
+C:\WINNT\system32\STDFTES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINNT\system32\DBRPRES.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\Archivos de programa\Archivos comunes\designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt.dll=$(WinSysPath)
+C:\WINNT\system32\Implode.dll=$(AppPath)
+C:\WINNT\system32\Crpaig80.dll=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Crystal Decisions\1.0\Bin\sscsdk80.dll=$(WinSysPath)
+C:\WINNT\system32\P2smon.dll=$(WinSysPath)
+C:\WINNT\system32\p3smnes.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\xqviewer.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Report Designer Component\crystalwizard.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\sviewhlp.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=$(WinSysPath)
+C:\WINNT\system32\cryptext.dll=$(AppPath)
+C:\WINNT\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINNT\system32\ADODCES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCMCES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCC2ES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINNT\system32\DATLSES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINNT\system32\DATGDES.DLL=$(WinSysPath)
+C:\WINNT\system32\Comdlg32.ocx=$(WinSysPath)
+C:\WINNT\system32\CMDLGES.DLL=$(WinSysPath)
+C:\WINNT\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINNT\system32\TABCTES.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\WINNT\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINNT\system32\RDOCURS.DLL=$(WinSysPath)
+C:\WINNT\system32\RDO20ES.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Documents and Settings\Administrador\Escritorio\CODIGO SACC 2016 V2\SACC.exe=$(AppPath)
+D:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\VB6ES.DLL=$(WinSysPath)
+D:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+D:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+D:\WINDOWS\system32\msbind.dll=$(WinSysPath)
+D:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+D:\WINDOWS\system32\STDFTES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+D:\WINDOWS\system32\msderun.dll=$(WinSysPath)
+D:\Archivos de programa\Microsoft Office\Office12\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\oPDF.dll=$(WinSysPath)
+D:\Archivos de programa\Archivos comunes\System\ado\msado26.tlb=$(WinSysPath)
+D:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+D:\WINDOWS\system32\MSCMCES.DLL=$(WinSysPath)
+D:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+D:\WINDOWS\system32\MSCC2ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\Comdlg32.ocx=$(WinSysPath)
+D:\WINDOWS\system32\tabctl32.ocx=$(WinSysPath)
+D:\WINDOWS\system32\TABCTES.DLL=$(WinSysPath)
+D:\Archivos de programa\SACC\HookMenu.ocx=$(WinSysPath)
+D:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+D:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+D:\WINDOWS\system32\RDO20ES.DLL=$(WinSysPath)
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+D:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Documents and Settings\Administrador\Escritorio\CODIGO SACC 2021 V3\SACC.exe=$(AppPath)
+D:\WINDOWS\system32\cdosys.dll=$(WinSysPath)
+D:\Documents and Settings\Administrador\Escritorio\CODIGO SACC 2021 V3\OCX Y DLL'S\Graficas\ADM_GRAFICOS\ADMGráficos.ocx=$(WinSysPath)
+C:\Documents and Settings\Administrador\Escritorio\CODIGO SACC 2021 V3\SACC.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\system32\msbind.dll=$(WinSysPath)
+C:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+C:\WINDOWS\system32\STDFTES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DBRPRES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\msderun.dll=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\System\ado\msado26.tlb=$(WinSysPath)
+C:\WINDOWS\system32\cdosys.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\TABCTES.DLL=$(WinSysPath)
+C:\Archivos de programa\SACC\HookMenu.ocx=$(WinSysPath)
+C:\WINDOWS\system32\ADMGráficos.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDO20ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+
+[Package|Instalación|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Administrador\Mis documentos\Sistema\SISTEMA 03-08-2006\APTONER.exe=Yes
+C:\Archivos de programa\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\WINNT\system32\Implode.dll=Yes
+C:\WINNT\system32\cryptext.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+D:\Documents and Settings\Administrador\Escritorio\CODIGO SACC 2016 V2\SACC.exe=Yes
+D:\Archivos de programa\Microsoft Office\Office12\EXCEL.EXE=Yes
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+D:\Documents and Settings\Administrador\Escritorio\CODIGO SACC 2021 V3\SACC.exe=Yes
+C:\Documents and Settings\Administrador\Escritorio\CODIGO SACC 2021 V3\SACC.exe=Yes
+
+[Package|Instalación|Distribution]
+Type=single
+Size=
+Title=SACC
+
+[Package|Instalación|IconGroups]
+Group0=SACC
+PrivateGroup0=Falso
+Parent0=$(Programs)
+
+[Package|Instalación|SACC]
+Icon1=SACC.exe
+Title1=SACC
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Instalación|Package]
+PackageFolder=C:\Documents and Settings\Administrador\Escritorio\CODIGO SACC 2021 V3\Instalador 2016
+ProjectFolder=C:\Documents and Settings\Administrador\Escritorio\CODIGO SACC 2021 V3
+ServerSideCab=
+File1=C:\Documents and Settings\Administrador\Escritorio\CODIGO SACC 2021 V3\Instalador 2016\setup.exe
+File2=C:\Documents and Settings\Administrador\Escritorio\CODIGO SACC 2021 V3\Instalador 2016\Setup.Lst
+File3=C:\Documents and Settings\Administrador\Escritorio\CODIGO SACC 2021 V3\Instalador 2016\SACC.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

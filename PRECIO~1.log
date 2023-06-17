@@ -1,0 +1,7 @@
+Línea 52: la clase MSComctlLib.ListView del control ListView1 no era una clase de control cargada.
+Línea 58: el nombre de la propiedad _ExtentX de ListView1 no es válido.
+Línea 59: el nombre de la propiedad _ExtentY de ListView1 no es válido.
+Línea 60: el nombre de la propiedad LabelWrap de ListView1 no es válido.
+Línea 61: el nombre de la propiedad HideSelection de ListView1 no es válido.
+Línea 62: el nombre de la propiedad _Version de ListView1 no es válido.
+Línea 67: el nombre de la propiedad NumItems de ListView1 no es válido.

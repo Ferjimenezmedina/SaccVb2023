@@ -1,0 +1,3 @@
+Línea 10: la propiedad Icon de frmComandas tenía una referencia a archivo no válida.
+Línea 217: la propiedad Connect de adcUsuarios tenía un valor no válido.
+Línea 218: la propiedad OLEDBString de adcUsuarios tenía un valor no válido.
